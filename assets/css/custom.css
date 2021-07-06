@@ -85,6 +85,20 @@ p{
     border-radius: 50%
 }
 
-#call-to-action {
+/* #call-to-action {
     background-image: url(http://jornalipanema.com.br/n/assets/images/715dfc9e00b031eef1503fe637ea5495.jpeg)
+} */
+
+.flag{
+    margin: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+    .action-title {
+        margin-top: 15px;
+    }
+}
+
+.border-radius{
+    border-radius: 5px;
 }
