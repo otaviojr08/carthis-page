@@ -895,6 +895,17 @@
 .black {
 	color: #222;
 }
+.golden {
+	color: #c8901d;
+}
+
+/* text-align */
+
+.text-center{
+	text-align: center;
+}
+
+
 /* black overlay */
 
 [data-overlay] {
