@@ -42,7 +42,7 @@ p{
     text-align: center;
 }
 .collection .collection-item.avatar .title {
-    font-size: 16px;
+    font-size: auto;
 }
 .collection .collection-item.avatar p {
     margin: 0;
